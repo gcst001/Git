@@ -33,6 +33,8 @@
     
     [self sayHello];
     [self sayByeBye];
+    
+    NSLog(@"ViewDidLoad Done.");
 }
 
 -(void)sayHello{
